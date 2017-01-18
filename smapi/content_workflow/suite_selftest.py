@@ -33,7 +33,7 @@ import presentationmap
 import extendedmetadatavalidations
 import smapi_reporting
 import updatetestcontent
-import ssl_validation
+# import ssl_validation
 import getuserinfo
 #Main
 
@@ -192,9 +192,9 @@ def development_mode (config_file, args=[]):
     f = smapi_reporting.SMAPIReporting(suite.client, suite.smapiservice)
     fixtures.append(f)
 
-    ssl_validation.suite = suite
-    f = ssl_validation.ssl_validation(suite.client, suite.smapiservice)
-    fixtures.append(f)
+    # ssl_validation.suite = suite
+    # f = ssl_validation.ssl_validation(suite.client, suite.smapiservice)
+    # fixtures.append(f)
 
     try:
         import servicecatalog
