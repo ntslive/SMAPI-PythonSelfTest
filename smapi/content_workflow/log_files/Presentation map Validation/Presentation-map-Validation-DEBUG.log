@@ -1,0 +1,75 @@
+2017-01-23 10:23:53,932 [INFO] SONOS.sonos.workflow.result - Summary Report Files: log_files/Presentation map Validation/SummaryReport.html and log_files/Presentation map Validation/Presentation-map-Validation.txt
+2017-01-23 10:23:53,934 [INFO] SONOS.sonos.workflow.result - Detailed Debug Log File: log_files/Presentation map Validation/Presentation-map-Validation-DEBUG.log
+2017-01-23 10:23:53,934 [INFO] SONOS.sonos.workflow.basicsuite.BasicWorkflowTestSuite - -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-23 10:23:53,934 [INFO] SONOS.sonos.workflow.basicsuite.BasicWorkflowTestSuite - Current Working Directory: /Users/andi/Development/nts/sonos/PythonSelfTest/smapi/content_workflow
+2017-01-23 10:23:53,934 [INFO] SONOS.sonos.workflow.basicsuite.BasicWorkflowTestSuite - Result file: log_files/Presentation map Validation/SummaryReport.html
+
+
+2017-01-23 10:23:54,099 [INFO] SONOS.sonos.workflow.result - **************************************************
+2017-01-23 10:23:54,099 [INFO] SONOS.sonos.workflow.result - Start *test suite* 'Presentation map Validation' at Monday, January 23, 2017 10:23 AM 
+
+
+2017-01-23 10:23:54,100 [INFO] SONOS.sonos.workflow.result - ++++++++++++++++++++++++++++++++++++++++++++++++++
+2017-01-23 10:23:54,100 [INFO] SONOS.sonos.workflow.result - Start *test fixture* Albumart at Monday, January 23, 2017 10:23 AM 
+
+
+2017-01-23 10:23:54,106 [INFO] SONOS.sonos.workflow.result - --------------------------------------------------
+2017-01-23 10:23:54,106 [INFO] SONOS.sonos.workflow.result - Start *test case* test_custom_browse_icon_configuration at Monday, January 23, 2017 10:23 AM 
+2017-01-23 10:23:54,106 [INFO] SONOS.sonos.workflow.fixture.Albumart - -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-23 10:23:54,106 [INFO] SONOS.sonos.workflow.fixture.Albumart - Start Test Case: 1 Albumart test_custom_browse_icon_configuration
+2017-01-23 10:23:54,111 [SKIP] SONOS.sonos.workflow.fixture.Albumart - Image substitution rules for custom browse icons should be found in the presentation map file. (expression is False)
+2017-01-23 10:23:54,111 [SKIP] SONOS.sonos.workflow.fixture.Albumart - 1 Albumart test_custom_browse_icon_configuration
+2017-01-23 10:23:54,112 [INFO] SONOS.sonos.workflow.fixture.Albumart - -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-23 10:23:54,112 [INFO] SONOS.sonos.workflow.result - End *test case* test_custom_browse_icon_configuration at Monday, January 23, 2017 10:23 AM 
+
+
+
+
+2017-01-23 10:23:54,112 [INFO] SONOS.sonos.workflow.result - --------------------------------------------------
+2017-01-23 10:23:54,112 [INFO] SONOS.sonos.workflow.result - Start *test case* test_custom_browse_icon_schema at Monday, January 23, 2017 10:23 AM 
+2017-01-23 10:23:54,112 [INFO] SONOS.sonos.workflow.fixture.Albumart - -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-23 10:23:54,113 [INFO] SONOS.sonos.workflow.fixture.Albumart - Start Test Case: 2 Albumart test_custom_browse_icon_schema
+2017-01-23 10:23:54,116 [WARN] SONOS.sonos.workflow.fixture.Albumart - Cannot find node with XPath .//PresentationMap[@type='BrowseIconSizeMap'] in Presentation Map
+2017-01-23 10:23:54,116 [SKIP] SONOS.sonos.workflow.fixture.Albumart - Cannot find node with XPath .//PresentationMap[@type='BrowseIconSizeMap'] in Presentation Map
+2017-01-23 10:23:54,116 [SKIP] SONOS.sonos.workflow.fixture.Albumart - 2 Albumart test_custom_browse_icon_schema
+2017-01-23 10:23:54,117 [INFO] SONOS.sonos.workflow.fixture.Albumart - -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-23 10:23:54,117 [INFO] SONOS.sonos.workflow.result - End *test case* test_custom_browse_icon_schema at Monday, January 23, 2017 10:23 AM 
+
+
+
+
+2017-01-23 10:23:54,117 [INFO] SONOS.sonos.workflow.result - --------------------------------------------------
+2017-01-23 10:23:54,117 [INFO] SONOS.sonos.workflow.result - Start *test case* test_hi_res_album_art_configuration at Monday, January 23, 2017 10:23 AM 
+2017-01-23 10:23:54,117 [INFO] SONOS.sonos.workflow.fixture.Albumart - -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-23 10:23:54,117 [INFO] SONOS.sonos.workflow.fixture.Albumart - Start Test Case: 3 Albumart test_hi_res_album_art_configuration
+2017-01-23 10:23:54,120 [PASS] SONOS.sonos.workflow.fixture.Albumart - Image substitution rules for album art should be found in the presentation map file. (expression is True)
+2017-01-23 10:23:54,120 [STOP] SONOS.sonos.workflow.fixture.Albumart - The hi-res albumArtURI (None) should be something other than None. (is None)
+2017-01-23 10:23:54,121 [STOP] SONOS.sonos.workflow.fixture.Albumart - 3 Albumart test_hi_res_album_art_configuration
+2017-01-23 10:23:54,121 [INFO] SONOS.sonos.workflow.fixture.Albumart - -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-23 10:23:54,121 [INFO] SONOS.sonos.workflow.result - End *test case* test_hi_res_album_art_configuration at Monday, January 23, 2017 10:23 AM 
+
+
+
+
+2017-01-23 10:23:54,121 [INFO] SONOS.sonos.workflow.result - --------------------------------------------------
+2017-01-23 10:23:54,121 [INFO] SONOS.sonos.workflow.result - Start *test case* test_token_inside_substitution at Monday, January 23, 2017 10:23 AM 
+2017-01-23 10:23:54,121 [INFO] SONOS.sonos.workflow.fixture.Albumart - -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-23 10:23:54,122 [INFO] SONOS.sonos.workflow.fixture.Albumart - Start Test Case: 4 Albumart test_token_inside_substitution
+2017-01-23 10:23:54,126 [PASS] SONOS.sonos.workflow.fixture.Albumart - Image substitution rules for album art should be found in the presentation map file. (expression is True)
+2017-01-23 10:23:54,126 [PASS] SONOS.sonos.workflow.fixture.Albumart - Image substitution rules for album art should be found in the presentation map file. (expression is True)
+2017-01-23 10:23:54,130 [PASS] SONOS.sonos.workflow.fixture.Albumart - token values should be a part of substitution rules. (expected 0 == actual 0)
+2017-01-23 10:23:54,130 [PASS] SONOS.sonos.workflow.fixture.Albumart - 4 Albumart test_token_inside_substitution
+2017-01-23 10:23:54,130 [INFO] SONOS.sonos.workflow.fixture.Albumart - -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-23 10:23:54,130 [INFO] SONOS.sonos.workflow.result - End *test case* test_token_inside_substitution at Monday, January 23, 2017 10:23 AM 
+
+
+2017-01-23 10:23:54,130 [INFO] SONOS.sonos.workflow.result - End *test fixture* Albumart at Monday, January 23, 2017 10:23 AM 
+
+
+2017-01-23 10:23:54,131 [FAIL] SONOS.sonos.workflow.result - Summary: Failed. Passed: 1, Warnings: 0, Failed: 1.
+2017-01-23 10:23:54,131 [INFO] SONOS.sonos.workflow.result - Test Ran for 0:00:00.032024
+2017-01-23 10:23:54,131 [INFO] SONOS.sonos.workflow.result - End *test suite* 'Presentation map Validation' at Monday, January 23, 2017 10:23 AM 
+
+
+2017-01-23 10:23:54,132 [WARNING] SONOS.sonos.workflow.result - No baseline file of white-listed failures found. This check will be skipped.
+2017-01-23 10:23:54,133 [DEBUG] SONOS.sonos.workflow.result - HTML result written to log_files/Presentation map Validation/SummaryReport.html

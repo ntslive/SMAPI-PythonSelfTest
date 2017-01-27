@@ -1,0 +1,610 @@
+2017-01-27 14:36:07,971 SUITE Summary Report Files: log_files/NTSsmapiConfig/SummaryReport.html and log_files/NTSsmapiConfig/NTSsmapiConfig.txt
+2017-01-27 14:36:07,971 SUITE Detailed Debug Log File: log_files/NTSsmapiConfig/NTSsmapiConfig-DEBUG.log
+2017-01-27 14:36:08,164 INFO Service Name: NTSMusicService
+2017-01-27 14:36:08,218 SUITE Start *test suite* 'NTSsmapiConfig' at Friday, January 27, 2017 02:36 PM 
+2017-01-27 14:36:08,221 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:08,221 INFO Start Test Case: 1 GetUserInfoTest test_getUserInfo
+2017-01-27 14:36:08,221 SKIP 1 GetUserInfoTest test_getUserInfo
+2017-01-27 14:36:08,318 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:08,319 INFO Test Case: 2 UpdateTestContent test_combinatorial_get_test_content_162251734111560010688338825404900595225 (mediaMetadata){
+   id = "nts1"
+   title = "NTS - Live on 1"
+   mimeType = "audio/mpeg"
+   itemType = "stream"
+   streamMetadata = 
+      (streamMetadata){
+         logo = "https://media.ntslive.co.uk/crop/600x600/17413351-2012-4dd1-8ad3-fb1667083130_1480032000.jpeg"
+         currentHost = "Anu"
+         currentShow = "Anu"
+         secondsRemaining = 1431
+         secondsToNextShow = 1432
+      }
+ })
+2017-01-27 14:36:08,320 SKIP 2 UpdateTestContent test_combinatorial_get_test_content_162251734111560010688338825404900595225
+2017-01-27 14:36:08,321 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:08,321 INFO Test Case: 3 UpdateTestContent test_combinatorial_get_test_content_70472470606221459519166747234638548509 (mediaMetadata){
+   id = "nts2"
+   title = "NTS - Live on 2"
+   mimeType = "audio/mpeg"
+   itemType = "stream"
+   streamMetadata = 
+      (streamMetadata){
+         logo = "https://media.ntslive.co.uk/crop/600x600/6bbc69bc-8b88-44e6-9e9e-74429d6ff0bb_1485475200.jpeg"
+         currentHost = "SUEZUKI"
+         currentShow = "SUEZUKI"
+         secondsRemaining = 1431
+         secondsToNextShow = 1432
+      }
+ })
+2017-01-27 14:36:08,321 SKIP 3 UpdateTestContent test_combinatorial_get_test_content_70472470606221459519166747234638548509
+2017-01-27 14:36:08,323 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:08,323 INFO Start Test Case: 6 SMAPIMethodValidation test_createitem
+2017-01-27 14:36:08,324 SKIP 6 SMAPIMethodValidation test_createitem
+2017-01-27 14:36:08,324 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:08,325 INFO Start Test Case: 7 SMAPIMethodValidation test_deleteitem
+2017-01-27 14:36:08,325 SKIP 7 SMAPIMethodValidation test_deleteitem
+2017-01-27 14:36:08,326 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:08,326 INFO Start Test Case: 8 SMAPIMethodValidation test_getlastupdate
+2017-01-27 14:36:08,387 PASS 8 SMAPIMethodValidation test_getlastupdate
+2017-01-27 14:36:08,388 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:08,388 INFO Start Test Case: 9 SMAPIMethodValidation test_getmediametadata
+2017-01-27 14:36:08,445 PASS 9 SMAPIMethodValidation test_getmediametadata
+2017-01-27 14:36:08,447 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:08,447 INFO Start Test Case: 10 SMAPIMethodValidation test_getmetadata
+2017-01-27 14:36:08,492 PASS 10 SMAPIMethodValidation test_getmetadata
+2017-01-27 14:36:08,493 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:08,493 INFO Start Test Case: 11 SMAPIMethodValidation test_getsessionid
+2017-01-27 14:36:08,493 SKIP 11 SMAPIMethodValidation test_getsessionid
+2017-01-27 14:36:08,494 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:08,494 INFO Start Test Case: 12 SMAPIMethodValidation test_rateitem
+2017-01-27 14:36:08,515 SKIP 12 SMAPIMethodValidation test_rateitem
+2017-01-27 14:36:08,516 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:08,517 INFO Start Test Case: 13 SMAPIMethodValidation test_search
+2017-01-27 14:36:08,517 SKIP 13 SMAPIMethodValidation test_search
+2017-01-27 14:36:08,518 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:08,518 INFO Start Test Case: 14 SMAPIMethodValidation test_setplayedseconds
+2017-01-27 14:36:08,518 SKIP 14 SMAPIMethodValidation test_setplayedseconds
+2017-01-27 14:36:08,520 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:08,520 INFO Test Case: 20 CreatePlaylist test_combinatorial_create_playlist_in_folder_with_seed_231875841406471188684628014653110133315 (u'self.smapiservice.get_test_track_id()', u'self.smapiservice.get_search_term_track()', u'track'))
+2017-01-27 14:36:08,521 SKIP 20 CreatePlaylist test_combinatorial_create_playlist_in_folder_with_seed_231875841406471188684628014653110133315
+2017-01-27 14:36:08,521 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:08,522 INFO Test Case: 21 CreatePlaylist test_combinatorial_create_playlist_in_folder_with_seed_74690823491100721475079917764657004479 (u'self.smapiservice.get_test_album_id()', u'self.smapiservice.get_search_term_album()', u'artist'))
+2017-01-27 14:36:08,522 SKIP 21 CreatePlaylist test_combinatorial_create_playlist_in_folder_with_seed_74690823491100721475079917764657004479
+2017-01-27 14:36:08,523 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:08,524 INFO Test Case: 23 CreatePlaylist test_combinatorial_create_playlist_with_seed_231875841406471188684628014653110133315 (u'self.smapiservice.get_test_track_id()', u'self.smapiservice.get_search_term_track()', u'track'))
+2017-01-27 14:36:08,524 SKIP 23 CreatePlaylist test_combinatorial_create_playlist_with_seed_231875841406471188684628014653110133315
+2017-01-27 14:36:08,525 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:08,525 INFO Test Case: 24 CreatePlaylist test_combinatorial_create_playlist_with_seed_74690823491100721475079917764657004479 (u'self.smapiservice.get_test_album_id()', u'self.smapiservice.get_search_term_album()', u'artist'))
+2017-01-27 14:36:08,525 SKIP 24 CreatePlaylist test_combinatorial_create_playlist_with_seed_74690823491100721475079917764657004479
+2017-01-27 14:36:08,527 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:08,527 INFO Start Test Case: 26 CreatePlaylist test_create_empty_playlist_in_folder
+2017-01-27 14:36:08,527 SKIP 26 CreatePlaylist test_create_empty_playlist_in_folder
+2017-01-27 14:36:08,528 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:08,528 INFO Start Test Case: 27 CreatePlaylist test_create_empty_playlist_in_nonexisting_folder
+2017-01-27 14:36:08,529 SKIP 27 CreatePlaylist test_create_empty_playlist_in_nonexisting_folder
+2017-01-27 14:36:08,529 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:08,530 INFO Start Test Case: 28 CreatePlaylist test_create_empty_playlist_with_invalid_name
+2017-01-27 14:36:08,530 SKIP 28 CreatePlaylist test_create_empty_playlist_with_invalid_name
+2017-01-27 14:36:08,531 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:08,531 INFO Start Test Case: 29 CreatePlaylist test_create_empty_root_playlist
+2017-01-27 14:36:08,531 SKIP 29 CreatePlaylist test_create_empty_root_playlist
+2017-01-27 14:36:08,532 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:08,532 INFO Start Test Case: 30 CreatePlaylist test_create_playlist_with_seed_playlist
+2017-01-27 14:36:08,533 SKIP 30 CreatePlaylist test_create_playlist_with_seed_playlist
+2017-01-27 14:36:08,534 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:08,534 INFO Start Test Case: 50 DeletePlaylist test_properties_for_not_deletable_playlist
+2017-01-27 14:36:08,535 SKIP 50 DeletePlaylist test_properties_for_not_deletable_playlist
+2017-01-27 14:36:08,536 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:08,537 INFO Start Test Case: 100 RenamePlaylist test_rename_non_editable_playlist
+2017-01-27 14:36:08,537 SKIP 100 RenamePlaylist test_rename_non_editable_playlist
+2017-01-27 14:36:08,538 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:08,538 INFO Start Test Case: 101 RenamePlaylist test_rename_playlist_to_invalidname
+2017-01-27 14:36:08,539 SKIP 101 RenamePlaylist test_rename_playlist_to_invalidname
+2017-01-27 14:36:08,541 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:08,541 INFO Start Test Case: 102 RenamePlaylist test_rename_playlist_to_validname
+2017-01-27 14:36:08,541 SKIP 102 RenamePlaylist test_rename_playlist_to_validname
+2017-01-27 14:36:08,543 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:08,543 INFO Test Case: 202 AddToPlaylist test_combinatorial_add_content_to_playlist_78803141948148221689497143233259330283 (u'self.smapiservice.get_test_track_id()', u'track'))
+2017-01-27 14:36:08,544 SKIP 202 AddToPlaylist test_combinatorial_add_content_to_playlist_78803141948148221689497143233259330283
+2017-01-27 14:36:08,545 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:08,545 INFO Test Case: 203 AddToPlaylist test_combinatorial_add_content_to_playlist_92681499919455952973129434357727117034 (u'self.smapiservice.get_test_album_id()', u'album'))
+2017-01-27 14:36:08,545 SKIP 203 AddToPlaylist test_combinatorial_add_content_to_playlist_92681499919455952973129434357727117034
+2017-01-27 14:36:08,546 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:08,547 INFO Test Case: 204 AddToPlaylist test_combinatorial_add_content_to_playlist_217199673987649500830907331948014778782 (u'playlist', u'playlist'))
+2017-01-27 14:36:08,547 SKIP 204 AddToPlaylist test_combinatorial_add_content_to_playlist_217199673987649500830907331948014778782
+2017-01-27 14:36:08,550 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:08,550 INFO Test Case: 206 AddToPlaylist test_combinatorial_cannot_add_content_to_noneditable_playlist_78803141948148221689497143233259330283 (u'self.smapiservice.get_test_track_id()', u'track'))
+2017-01-27 14:36:08,550 SKIP 206 AddToPlaylist test_combinatorial_cannot_add_content_to_noneditable_playlist_78803141948148221689497143233259330283
+2017-01-27 14:36:08,553 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:08,553 INFO Test Case: 207 AddToPlaylist test_combinatorial_cannot_add_content_to_noneditable_playlist_92681499919455952973129434357727117034 (u'self.smapiservice.get_test_album_id()', u'album'))
+2017-01-27 14:36:08,553 SKIP 207 AddToPlaylist test_combinatorial_cannot_add_content_to_noneditable_playlist_92681499919455952973129434357727117034
+2017-01-27 14:36:08,554 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:08,554 INFO Test Case: 208 AddToPlaylist test_combinatorial_cannot_add_content_to_noneditable_playlist_217199673987649500830907331948014778782 (u'playlist', u'playlist'))
+2017-01-27 14:36:08,555 SKIP 208 AddToPlaylist test_combinatorial_cannot_add_content_to_noneditable_playlist_217199673987649500830907331948014778782
+2017-01-27 14:36:08,557 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:08,557 INFO Test Case: 411 ReorderPlaylistContainer test_combinatorial_can_move_tracks_123815105787715806173406836448580219111 (u'0,1,2', u'END', u'UP', u'Can move contiguous tracks to the end of an existing playlist'))
+2017-01-27 14:36:08,558 SKIP 411 ReorderPlaylistContainer test_combinatorial_can_move_tracks_123815105787715806173406836448580219111
+2017-01-27 14:36:08,558 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:08,559 INFO Test Case: 412 ReorderPlaylistContainer test_combinatorial_can_move_tracks_257867091715467498001275013981620705500 (u'0,4', u'END', u'UP', u'Can move discontiguous tracks to the end of an existing playlist'))
+2017-01-27 14:36:08,559 SKIP 412 ReorderPlaylistContainer test_combinatorial_can_move_tracks_257867091715467498001275013981620705500
+2017-01-27 14:36:08,560 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:08,561 INFO Test Case: 413 ReorderPlaylistContainer test_combinatorial_can_move_tracks_217538751555170306116123116766739804815 (u'6,7,8', u'0', u'DOWN', u'Can move contiguous tracks to beginning of an existing playlist'))
+2017-01-27 14:36:08,561 SKIP 413 ReorderPlaylistContainer test_combinatorial_can_move_tracks_217538751555170306116123116766739804815
+2017-01-27 14:36:08,562 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:08,563 INFO Test Case: 414 ReorderPlaylistContainer test_combinatorial_can_move_tracks_301136521442178991188764502148437687674 (u'5,9', u'0', u'DOWN', u'Can move discontiguous tracks to the beginning of an existing playlist'))
+2017-01-27 14:36:08,563 SKIP 414 ReorderPlaylistContainer test_combinatorial_can_move_tracks_301136521442178991188764502148437687674
+2017-01-27 14:36:08,565 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:08,565 INFO Test Case: 415 ReorderPlaylistContainer test_combinatorial_can_move_tracks_166241789251193602764331413776439152740 (u'2,3', u'', u'DOWN', u'Can move tracks to the beginning of an existing playlist with an empty TO location'))
+2017-01-27 14:36:08,565 SKIP 415 ReorderPlaylistContainer test_combinatorial_can_move_tracks_166241789251193602764331413776439152740
+2017-01-27 14:36:08,566 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:08,566 INFO Test Case: 416 ReorderPlaylistContainer test_combinatorial_can_move_tracks_190327261525867372678990451106171322154 (u'5,6,7', 4, u'DOWN', u'Can move contiguous tracks to the middle of an existing playlist'))
+2017-01-27 14:36:08,567 SKIP 416 ReorderPlaylistContainer test_combinatorial_can_move_tracks_190327261525867372678990451106171322154
+2017-01-27 14:36:08,567 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:08,568 INFO Test Case: 417 ReorderPlaylistContainer test_combinatorial_can_move_tracks_92701258397780261026621721013681637114 (u'6,7', 8, u'UP', u'Can move contiguous tracks to the middle of an existing playlist'))
+2017-01-27 14:36:08,568 SKIP 417 ReorderPlaylistContainer test_combinatorial_can_move_tracks_92701258397780261026621721013681637114
+2017-01-27 14:36:08,569 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:08,569 INFO Test Case: 418 ReorderPlaylistContainer test_combinatorial_can_move_tracks_248728061713560243005958170034649575344 (u'5,7,9', 4, u'DOWN', u'Can move discontiguous tracks to the middle of an existing playlist'))
+2017-01-27 14:36:08,569 SKIP 418 ReorderPlaylistContainer test_combinatorial_can_move_tracks_248728061713560243005958170034649575344
+2017-01-27 14:36:08,570 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:08,570 INFO Test Case: 419 ReorderPlaylistContainer test_combinatorial_can_move_tracks_227314661117508811775164643929849416373 (u'5,7,9', 10, u'UP', u'Can move discontiguous tracks to the end of an existing playlist'))
+2017-01-27 14:36:08,571 SKIP 419 ReorderPlaylistContainer test_combinatorial_can_move_tracks_227314661117508811775164643929849416373
+2017-01-27 14:36:08,571 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:08,571 INFO Test Case: 420 ReorderPlaylistContainer test_combinatorial_can_move_tracks_178433578387948936236008591984179918727 (u'0-2,4', 6, u'UP', u'Can move combo of ranges and individual tracks to the middle of an existing playlist'))
+2017-01-27 14:36:08,572 SKIP 420 ReorderPlaylistContainer test_combinatorial_can_move_tracks_178433578387948936236008591984179918727
+2017-01-27 14:36:08,573 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:08,573 INFO Test Case: 421 ReorderPlaylistContainer test_combinatorial_can_move_tracks_52549789401627678575979862339835764472 (u'1,3-5', 6, u'UP', u'Can move combo of ranges and individual tracks to the middle of an existing playlist'))
+2017-01-27 14:36:08,573 SKIP 421 ReorderPlaylistContainer test_combinatorial_can_move_tracks_52549789401627678575979862339835764472
+2017-01-27 14:36:08,574 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:08,574 INFO Test Case: 422 ReorderPlaylistContainer test_combinatorial_can_move_tracks_7329268808020993467895662382473902579 (u'0-2,4-6', u'END', u'UP', u'Can move combo of ranges and individual tracks to the end of an existing playlist'))
+2017-01-27 14:36:08,574 SKIP 422 ReorderPlaylistContainer test_combinatorial_can_move_tracks_7329268808020993467895662382473902579
+2017-01-27 14:36:08,575 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:08,575 INFO Test Case: 423 ReorderPlaylistContainer test_combinatorial_can_move_tracks_174233127971397934326551509135062850406 (u'2-4,5-7', u'', u'DOWN', u'Can move combo of ranges and individual tracks to the beginning of an existing playlist'))
+2017-01-27 14:36:08,576 SKIP 423 ReorderPlaylistContainer test_combinatorial_can_move_tracks_174233127971397934326551509135062850406
+2017-01-27 14:36:08,577 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:08,578 INFO Test Case: 425 ReorderPlaylistContainer test_combinatorial_cannot_move_tracks_309398607997526809828234010384898174253 (u'0,1,2', u'PASTEND', u'Cannot move tracks past the end of an existing playlist'))
+2017-01-27 14:36:08,578 SKIP 425 ReorderPlaylistContainer test_combinatorial_cannot_move_tracks_309398607997526809828234010384898174253
+2017-01-27 14:36:08,579 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:08,579 INFO Test Case: 426 ReorderPlaylistContainer test_combinatorial_cannot_move_tracks_47731222299493752925301566217031627005 (u'6,7,8', u'BEFORESTART', u'Cannot move tracks before the beginning of an existing playlist'))
+2017-01-27 14:36:08,579 SKIP 426 ReorderPlaylistContainer test_combinatorial_cannot_move_tracks_47731222299493752925301566217031627005
+2017-01-27 14:36:08,580 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:08,580 INFO Test Case: 427 ReorderPlaylistContainer test_combinatorial_cannot_move_tracks_92286202966071461810354591258237179634 (u'', u'5', u'Cannot move tracks in an existing playlist with empty indices'))
+2017-01-27 14:36:08,580 SKIP 427 ReorderPlaylistContainer test_combinatorial_cannot_move_tracks_92286202966071461810354591258237179634
+2017-01-27 14:36:08,581 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:08,581 INFO Test Case: 428 ReorderPlaylistContainer test_combinatorial_cannot_move_tracks_140924730606268537765776842945276245251 (u'-3', u'6', u'Cannot move tracks in an existing playlist with invalid indices'))
+2017-01-27 14:36:08,582 SKIP 428 ReorderPlaylistContainer test_combinatorial_cannot_move_tracks_140924730606268537765776842945276245251
+2017-01-27 14:36:08,582 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:08,583 INFO Test Case: 429 ReorderPlaylistContainer test_combinatorial_cannot_move_tracks_301096672733174262710814826501671530713 (u'1,4-9,5-10', u'3', u'Cannot move tracks in an existing playlist with overlapping indices'))
+2017-01-27 14:36:08,583 SKIP 429 ReorderPlaylistContainer test_combinatorial_cannot_move_tracks_301096672733174262710814826501671530713
+2017-01-27 14:36:08,584 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:08,584 INFO Test Case: 430 ReorderPlaylistContainer test_combinatorial_cannot_move_tracks_146604112781483576722803204880526645386 (u'a,b-c', u'4', u'Cannot move tracks in an existing playlist with alpha indices'))
+2017-01-27 14:36:08,584 SKIP 430 ReorderPlaylistContainer test_combinatorial_cannot_move_tracks_146604112781483576722803204880526645386
+2017-01-27 14:36:08,585 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:08,585 INFO Test Case: 431 ReorderPlaylistContainer test_combinatorial_cannot_move_tracks_223407869629675306902358175214567897889 (u'4,5', u'NOTMINE', u'Cannot move tracks in a playlist that is not owned by user'))
+2017-01-27 14:36:08,585 SKIP 431 ReorderPlaylistContainer test_combinatorial_cannot_move_tracks_223407869629675306902358175214567897889
+2017-01-27 14:36:08,586 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:08,586 INFO Test Case: 432 ReorderPlaylistContainer test_combinatorial_cannot_move_tracks_105323776750449159915765541006635459884 (u'2,3', u'NOTPLAYLIST', u"Cannot move tracks in something that isn't a playlist"))
+2017-01-27 14:36:08,587 SKIP 432 ReorderPlaylistContainer test_combinatorial_cannot_move_tracks_105323776750449159915765541006635459884
+2017-01-27 14:36:08,604 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:08,604 INFO Start Test Case: 844 Albumart test_custom_browse_icon_configuration
+2017-01-27 14:36:08,625 SKIP 844 Albumart test_custom_browse_icon_configuration
+2017-01-27 14:36:08,625 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:08,626 INFO Start Test Case: 845 Albumart test_custom_browse_icon_schema
+2017-01-27 14:36:08,640 WARN Cannot find node with XPath .//PresentationMap[@type='BrowseIconSizeMap'] in Presentation Map
+2017-01-27 14:36:08,641 SKIP 845 Albumart test_custom_browse_icon_schema
+2017-01-27 14:36:08,642 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:08,642 INFO Start Test Case: 846 Albumart test_hi_res_album_art_configuration
+2017-01-27 14:36:09,252 PASS 846 Albumart test_hi_res_album_art_configuration
+2017-01-27 14:36:09,253 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:09,253 INFO Start Test Case: 847 Albumart test_token_inside_substitution
+2017-01-27 14:36:09,292 PASS 847 Albumart test_token_inside_substitution
+2017-01-27 14:36:09,315 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:09,315 INFO Start Test Case: 1692 Ratings test_meta_data
+2017-01-27 14:36:09,315 SKIP 1692 Ratings test_meta_data
+2017-01-27 14:36:09,316 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:09,316 INFO Start Test Case: 1693 Ratings test_res_ratings_icons
+2017-01-27 14:36:09,317 SKIP 1693 Ratings test_res_ratings_icons
+2017-01-27 14:36:09,318 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:09,318 INFO Test Case: 3384 Favorites test_combinatorial_add_to_favorites_202912945011388656941625456444385316711 (u'self.smapiservice.get_support_favorites_track()', u'self.smapiservice.get_test_track_id()', u'self.smapiservice.get_favorite_tracks_container_id()'))
+2017-01-27 14:36:09,319 SKIP 3384 Favorites test_combinatorial_add_to_favorites_202912945011388656941625456444385316711
+2017-01-27 14:36:09,320 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:09,320 INFO Test Case: 3385 Favorites test_combinatorial_add_to_favorites_318262203569584814813756028558191412357 (u'self.smapiservice.get_support_favorites_album()', u'self.smapiservice.get_test_album_id()', u'self.smapiservice.get_favorite_albums_container_id()'))
+2017-01-27 14:36:09,321 SKIP 3385 Favorites test_combinatorial_add_to_favorites_318262203569584814813756028558191412357
+2017-01-27 14:36:09,324 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:09,324 INFO Test Case: 3387 Favorites test_combinatorial_remove_from_favorites_202912945011388656941625456444385316711 (u'self.smapiservice.get_support_favorites_track()', u'self.smapiservice.get_test_track_id()', u'self.smapiservice.get_favorite_tracks_container_id()'))
+2017-01-27 14:36:09,325 SKIP 3387 Favorites test_combinatorial_remove_from_favorites_202912945011388656941625456444385316711
+2017-01-27 14:36:09,326 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:09,326 INFO Test Case: 3388 Favorites test_combinatorial_remove_from_favorites_318262203569584814813756028558191412357 (u'self.smapiservice.get_support_favorites_album()', u'self.smapiservice.get_test_album_id()', u'self.smapiservice.get_favorite_albums_container_id()'))
+2017-01-27 14:36:09,327 SKIP 3388 Favorites test_combinatorial_remove_from_favorites_318262203569584814813756028558191412357
+2017-01-27 14:36:09,328 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:09,328 INFO Start Test Case: 3390 Favorites test_getlastupdate_with_change
+2017-01-27 14:36:09,329 SKIP 3390 Favorites test_getlastupdate_with_change
+2017-01-27 14:36:09,610 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:09,611 INFO Test Case: 6778 Browse test_combinatorial_test_browse_to_leaf_70472470606221459519166747234638548509 (mediaMetadata){
+   id = "nts2"
+   title = "NTS - Live on 2"
+   mimeType = "audio/mpeg"
+   itemType = "stream"
+   streamMetadata = 
+      (streamMetadata){
+         logo = "https://media.ntslive.co.uk/crop/600x600/6bbc69bc-8b88-44e6-9e9e-74429d6ff0bb_1485475200.jpeg"
+         currentHost = "SUEZUKI"
+         currentShow = "SUEZUKI"
+         secondsRemaining = 1431
+         secondsToNextShow = 1432
+      }
+ })
+2017-01-27 14:36:09,657 PASS 6778 Browse test_combinatorial_test_browse_to_leaf_70472470606221459519166747234638548509
+2017-01-27 14:36:09,658 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:09,659 INFO Test Case: 6779 Browse test_combinatorial_test_browse_to_leaf_162251734111560010688338825404900595225 (mediaMetadata){
+   id = "nts1"
+   title = "NTS - Live on 1"
+   mimeType = "audio/mpeg"
+   itemType = "stream"
+   streamMetadata = 
+      (streamMetadata){
+         logo = "https://media.ntslive.co.uk/crop/600x600/17413351-2012-4dd1-8ad3-fb1667083130_1480032000.jpeg"
+         currentHost = "Anu"
+         currentShow = "Anu"
+         secondsRemaining = 1431
+         secondsToNextShow = 1432
+      }
+ })
+2017-01-27 14:36:09,756 PASS 6779 Browse test_combinatorial_test_browse_to_leaf_162251734111560010688338825404900595225
+2017-01-27 14:36:09,758 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:09,758 INFO Start Test Case: 13554 HTTPBasedTests test_albumart_uri_valid
+2017-01-27 14:36:09,759 SKIP 13554 HTTPBasedTests test_albumart_uri_valid
+2017-01-27 14:36:09,759 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:09,760 INFO Start Test Case: 13555 HTTPBasedTests test_artlogo_uri_valid
+2017-01-27 14:36:09,916 PASS 13555 HTTPBasedTests test_artlogo_uri_valid
+2017-01-27 14:36:09,917 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:09,918 INFO Start Test Case: 13556 HTTPBasedTests test_artprog_uri_valid
+2017-01-27 14:36:09,918 SKIP 13556 HTTPBasedTests test_artprog_uri_valid
+2017-01-27 14:36:09,920 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:09,920 INFO Start Test Case: 13557 HTTPBasedTests test_byte_range_seeking_beginning_and_end_specified
+2017-01-27 14:36:09,921 SKIP 13557 HTTPBasedTests test_byte_range_seeking_beginning_and_end_specified
+2017-01-27 14:36:09,922 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:09,923 INFO Start Test Case: 13558 HTTPBasedTests test_byte_range_seeking_no_end_specified
+2017-01-27 14:36:09,923 SKIP 13558 HTTPBasedTests test_byte_range_seeking_no_end_specified
+2017-01-27 14:36:09,924 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:09,925 INFO Start Test Case: 13559 HTTPBasedTests test_implicit_explicit_actions
+2017-01-27 14:36:09,925 SKIP 13559 HTTPBasedTests test_implicit_explicit_actions
+2017-01-27 14:36:09,927 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:09,927 INFO Test Case: 27113 Search test_combinatorial_item_types_129316834537479570751535345027097011000 itemType)
+2017-01-27 14:36:09,928 SKIP 27113 Search test_combinatorial_item_types_129316834537479570751535345027097011000
+2017-01-27 14:36:09,929 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:09,929 INFO Test Case: 27114 Search test_combinatorial_item_types_244638787362077305305759689222081875087 id)
+2017-01-27 14:36:09,930 SKIP 27114 Search test_combinatorial_item_types_244638787362077305305759689222081875087
+2017-01-27 14:36:09,932 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:09,932 INFO Test Case: 27116 Search test_combinatorial_search_all_incremental_search (u'', u''))
+2017-01-27 14:36:09,933 SKIP 27116 Search test_combinatorial_search_all_incremental_search
+2017-01-27 14:36:09,933 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:09,934 INFO Test Case: 27117 Search test_combinatorial_search_all_incremental_search (u'', u''))
+2017-01-27 14:36:09,934 SKIP 27117 Search test_combinatorial_search_all_incremental_search
+2017-01-27 14:36:09,935 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:09,935 INFO Test Case: 27118 Search test_combinatorial_search_all_incremental_search (u'', u''))
+2017-01-27 14:36:09,935 SKIP 27118 Search test_combinatorial_search_all_incremental_search
+2017-01-27 14:36:09,936 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:09,938 INFO Test Case: 27119 Search test_combinatorial_search_all_incremental_search (u'', u''))
+2017-01-27 14:36:09,938 SKIP 27119 Search test_combinatorial_search_all_incremental_search
+2017-01-27 14:36:09,940 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:09,940 INFO Test Case: 27120 Search test_combinatorial_search_all_incremental_search_161216295760089147316064887752216623570 (u'', u'NTS - Live on 2'))
+2017-01-27 14:36:09,941 SKIP 27120 Search test_combinatorial_search_all_incremental_search_161216295760089147316064887752216623570
+2017-01-27 14:36:09,942 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:09,942 INFO Test Case: 27121 Search test_combinatorial_search_all_incremental_search (u'', u''))
+2017-01-27 14:36:09,942 SKIP 27121 Search test_combinatorial_search_all_incremental_search
+2017-01-27 14:36:09,943 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:09,943 INFO Test Case: 27122 Search test_combinatorial_search_all_incremental_search (u'', u''))
+2017-01-27 14:36:09,944 SKIP 27122 Search test_combinatorial_search_all_incremental_search
+2017-01-27 14:36:09,945 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:09,946 INFO Test Case: 27124 Search test_combinatorial_search_all_inputs_237829601409385550092399224542814219566 1234567890abcdefINVALID987654321)
+2017-01-27 14:36:09,946 SKIP 27124 Search test_combinatorial_search_all_inputs_237829601409385550092399224542814219566
+2017-01-27 14:36:09,947 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:09,947 INFO Test Case: 27125 Search test_combinatorial_search_all_inputs_241141155301681835121854327093132997124 911)
+2017-01-27 14:36:09,948 SKIP 27125 Search test_combinatorial_search_all_inputs_241141155301681835121854327093132997124
+2017-01-27 14:36:09,948 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:09,948 INFO Test Case: 27126 Search test_combinatorial_search_all_inputs_311060053710252238656424708343354944443 ??)
+2017-01-27 14:36:09,949 SKIP 27126 Search test_combinatorial_search_all_inputs_311060053710252238656424708343354944443
+2017-01-27 14:36:09,949 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:09,950 INFO Test Case: 27127 Search test_combinatorial_search_all_inputs_217492388849670131461884670065220263191 u'Los del R\xedo')
+2017-01-27 14:36:09,950 SKIP 27127 Search test_combinatorial_search_all_inputs_217492388849670131461884670065220263191
+2017-01-27 14:36:09,953 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:09,953 INFO Test Case: 27129 Search test_combinatorial_search_invalid_range_pagination_264537653533266056221724839780338177925 (u'self.smapiservice.get_search_container_track()', (-1, 10)))
+2017-01-27 14:36:09,954 SKIP 27129 Search test_combinatorial_search_invalid_range_pagination_264537653533266056221724839780338177925
+2017-01-27 14:36:09,955 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:09,955 INFO Test Case: 27130 Search test_combinatorial_search_invalid_range_pagination_83455970626036859195990579030458724143 (u'self.smapiservice.get_search_container_track()', (0, -1)))
+2017-01-27 14:36:09,955 SKIP 27130 Search test_combinatorial_search_invalid_range_pagination_83455970626036859195990579030458724143
+2017-01-27 14:36:09,956 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:09,956 INFO Test Case: 27131 Search test_combinatorial_search_invalid_range_pagination_26786378141606074206642698726517444120 (u'self.smapiservice.get_search_container_track()', (999999, 5)))
+2017-01-27 14:36:09,957 SKIP 27131 Search test_combinatorial_search_invalid_range_pagination_26786378141606074206642698726517444120
+2017-01-27 14:36:09,958 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:09,958 INFO Test Case: 27132 Search test_combinatorial_search_invalid_range_pagination_18272348131860973811126983983515949965 (u'self.smapiservice.get_search_container_track()', (0, 999999)))
+2017-01-27 14:36:09,959 SKIP 27132 Search test_combinatorial_search_invalid_range_pagination_18272348131860973811126983983515949965
+2017-01-27 14:36:09,960 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:09,960 INFO Test Case: 27133 Search test_combinatorial_search_invalid_range_pagination_334530859731280597001672966304419155678 (u'self.smapiservice.get_search_container_artist()', (-1, 10)))
+2017-01-27 14:36:09,961 SKIP 27133 Search test_combinatorial_search_invalid_range_pagination_334530859731280597001672966304419155678
+2017-01-27 14:36:09,962 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:09,962 INFO Test Case: 27134 Search test_combinatorial_search_invalid_range_pagination_266065354240924518505077155648932421758 (u'self.smapiservice.get_search_container_artist()', (0, -1)))
+2017-01-27 14:36:09,963 SKIP 27134 Search test_combinatorial_search_invalid_range_pagination_266065354240924518505077155648932421758
+2017-01-27 14:36:09,964 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:09,965 INFO Test Case: 27135 Search test_combinatorial_search_invalid_range_pagination_319667186650017896502691563660555807863 (u'self.smapiservice.get_search_container_artist()', (999999, 5)))
+2017-01-27 14:36:09,965 SKIP 27135 Search test_combinatorial_search_invalid_range_pagination_319667186650017896502691563660555807863
+2017-01-27 14:36:09,966 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:09,966 INFO Test Case: 27136 Search test_combinatorial_search_invalid_range_pagination_42763360555755396303487925759304198215 (u'self.smapiservice.get_search_container_artist()', (0, 999999)))
+2017-01-27 14:36:09,966 SKIP 27136 Search test_combinatorial_search_invalid_range_pagination_42763360555755396303487925759304198215
+2017-01-27 14:36:09,967 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:09,967 INFO Test Case: 27137 Search test_combinatorial_search_invalid_range_pagination_160287185336267421688008603043458452645 (u'self.smapiservice.get_search_container_album()', (-1, 10)))
+2017-01-27 14:36:09,967 SKIP 27137 Search test_combinatorial_search_invalid_range_pagination_160287185336267421688008603043458452645
+2017-01-27 14:36:09,968 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:09,968 INFO Test Case: 27138 Search test_combinatorial_search_invalid_range_pagination_158045885107802149641881153237242675952 (u'self.smapiservice.get_search_container_album()', (0, -1)))
+2017-01-27 14:36:09,969 SKIP 27138 Search test_combinatorial_search_invalid_range_pagination_158045885107802149641881153237242675952
+2017-01-27 14:36:09,969 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:09,969 INFO Test Case: 27139 Search test_combinatorial_search_invalid_range_pagination_308567961945112421038348417893487973595 (u'self.smapiservice.get_search_container_album()', (999999, 5)))
+2017-01-27 14:36:09,971 SKIP 27139 Search test_combinatorial_search_invalid_range_pagination_308567961945112421038348417893487973595
+2017-01-27 14:36:09,972 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:09,972 INFO Test Case: 27140 Search test_combinatorial_search_invalid_range_pagination_132753522923605847198530382715363134224 (u'self.smapiservice.get_search_container_album()', (0, 999999)))
+2017-01-27 14:36:09,973 SKIP 27140 Search test_combinatorial_search_invalid_range_pagination_132753522923605847198530382715363134224
+2017-01-27 14:36:09,974 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:09,974 INFO Test Case: 27141 Search test_combinatorial_search_invalid_range_pagination_209462945204014936616538471218686826401 (u'self.smapiservice.get_search_container_program()', (-1, 10)))
+2017-01-27 14:36:09,975 SKIP 27141 Search test_combinatorial_search_invalid_range_pagination_209462945204014936616538471218686826401
+2017-01-27 14:36:09,975 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:09,976 INFO Test Case: 27142 Search test_combinatorial_search_invalid_range_pagination_149987381252473566565581864027438564828 (u'self.smapiservice.get_search_container_program()', (0, -1)))
+2017-01-27 14:36:09,976 SKIP 27142 Search test_combinatorial_search_invalid_range_pagination_149987381252473566565581864027438564828
+2017-01-27 14:36:09,977 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:09,978 INFO Test Case: 27143 Search test_combinatorial_search_invalid_range_pagination_89441038082718721493776877875400977190 (u'self.smapiservice.get_search_container_program()', (999999, 5)))
+2017-01-27 14:36:09,978 SKIP 27143 Search test_combinatorial_search_invalid_range_pagination_89441038082718721493776877875400977190
+2017-01-27 14:36:09,979 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:09,980 INFO Test Case: 27144 Search test_combinatorial_search_invalid_range_pagination_138931247299842863487500287978439824215 (u'self.smapiservice.get_search_container_program()', (0, 999999)))
+2017-01-27 14:36:09,980 SKIP 27144 Search test_combinatorial_search_invalid_range_pagination_138931247299842863487500287978439824215
+2017-01-27 14:36:09,981 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:09,982 INFO Test Case: 27145 Search test_combinatorial_search_invalid_range_pagination_17284607116011952056454911940739310590 (u'self.smapiservice.get_search_container_stream()', (-1, 10)))
+2017-01-27 14:36:09,982 SKIP 27145 Search test_combinatorial_search_invalid_range_pagination_17284607116011952056454911940739310590
+2017-01-27 14:36:09,983 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:09,983 INFO Test Case: 27146 Search test_combinatorial_search_invalid_range_pagination_258895446293043835198947640211532784746 (u'self.smapiservice.get_search_container_stream()', (0, -1)))
+2017-01-27 14:36:09,984 SKIP 27146 Search test_combinatorial_search_invalid_range_pagination_258895446293043835198947640211532784746
+2017-01-27 14:36:09,985 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:09,985 INFO Test Case: 27147 Search test_combinatorial_search_invalid_range_pagination_293424647822230681938585950082267237492 (u'self.smapiservice.get_search_container_stream()', (999999, 5)))
+2017-01-27 14:36:09,985 SKIP 27147 Search test_combinatorial_search_invalid_range_pagination_293424647822230681938585950082267237492
+2017-01-27 14:36:09,986 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:09,986 INFO Test Case: 27148 Search test_combinatorial_search_invalid_range_pagination_218213401297178942473565770828915548795 (u'self.smapiservice.get_search_container_stream()', (0, 999999)))
+2017-01-27 14:36:09,987 SKIP 27148 Search test_combinatorial_search_invalid_range_pagination_218213401297178942473565770828915548795
+2017-01-27 14:36:09,987 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:09,988 INFO Test Case: 27149 Search test_combinatorial_search_invalid_range_pagination_270132571344129075915129866460334239215 (u'self.smapiservice.get_search_container_playlist()', (-1, 10)))
+2017-01-27 14:36:09,988 SKIP 27149 Search test_combinatorial_search_invalid_range_pagination_270132571344129075915129866460334239215
+2017-01-27 14:36:09,989 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:09,989 INFO Test Case: 27150 Search test_combinatorial_search_invalid_range_pagination_43154203856518217929907597780778799206 (u'self.smapiservice.get_search_container_playlist()', (0, -1)))
+2017-01-27 14:36:09,989 SKIP 27150 Search test_combinatorial_search_invalid_range_pagination_43154203856518217929907597780778799206
+2017-01-27 14:36:09,990 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:09,990 INFO Test Case: 27151 Search test_combinatorial_search_invalid_range_pagination_164024917032993374870730317377722364757 (u'self.smapiservice.get_search_container_playlist()', (999999, 5)))
+2017-01-27 14:36:09,991 SKIP 27151 Search test_combinatorial_search_invalid_range_pagination_164024917032993374870730317377722364757
+2017-01-27 14:36:09,991 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:09,992 INFO Test Case: 27152 Search test_combinatorial_search_invalid_range_pagination_201667911828600338241449220814772389443 (u'self.smapiservice.get_search_container_playlist()', (0, 999999)))
+2017-01-27 14:36:09,992 SKIP 27152 Search test_combinatorial_search_invalid_range_pagination_201667911828600338241449220814772389443
+2017-01-27 14:36:09,993 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:09,993 INFO Test Case: 27153 Search test_combinatorial_search_invalid_range_pagination_272352713155291220962010082964586278599 (u'self.smapiservice.get_search_container_other()', (-1, 10)))
+2017-01-27 14:36:09,993 SKIP 27153 Search test_combinatorial_search_invalid_range_pagination_272352713155291220962010082964586278599
+2017-01-27 14:36:09,994 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:09,994 INFO Test Case: 27154 Search test_combinatorial_search_invalid_range_pagination_167062887669263226594122632839589767337 (u'self.smapiservice.get_search_container_other()', (0, -1)))
+2017-01-27 14:36:09,995 SKIP 27154 Search test_combinatorial_search_invalid_range_pagination_167062887669263226594122632839589767337
+2017-01-27 14:36:09,995 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:09,996 INFO Test Case: 27155 Search test_combinatorial_search_invalid_range_pagination_42036009394812135596434466236481905239 (u'self.smapiservice.get_search_container_other()', (999999, 5)))
+2017-01-27 14:36:09,996 SKIP 27155 Search test_combinatorial_search_invalid_range_pagination_42036009394812135596434466236481905239
+2017-01-27 14:36:09,997 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:09,997 INFO Test Case: 27156 Search test_combinatorial_search_invalid_range_pagination_147247074643290735854476624404562638882 (u'self.smapiservice.get_search_container_other()', (0, 999999)))
+2017-01-27 14:36:09,997 SKIP 27156 Search test_combinatorial_search_invalid_range_pagination_147247074643290735854476624404562638882
+2017-01-27 14:36:09,999 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:09,999 INFO Test Case: 27158 Search test_combinatorial_search_results_pagination_117401825799608550929175902867506475040 (u'self.smapiservice.get_search_container_track()', u'track'))
+2017-01-27 14:36:09,999 SKIP 27158 Search test_combinatorial_search_results_pagination_117401825799608550929175902867506475040
+2017-01-27 14:36:10,000 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:10,000 INFO Test Case: 27159 Search test_combinatorial_search_results_pagination_72250471479804423971698754870633177409 (u'self.smapiservice.get_search_container_artist()', u'artist'))
+2017-01-27 14:36:10,001 SKIP 27159 Search test_combinatorial_search_results_pagination_72250471479804423971698754870633177409
+2017-01-27 14:36:10,001 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:10,002 INFO Test Case: 27160 Search test_combinatorial_search_results_pagination_134550899865791776783178273087962518258 (u'self.smapiservice.get_search_container_album()', u'album'))
+2017-01-27 14:36:10,002 SKIP 27160 Search test_combinatorial_search_results_pagination_134550899865791776783178273087962518258
+2017-01-27 14:36:10,003 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:10,003 INFO Test Case: 27161 Search test_combinatorial_search_results_pagination_10762275166207459049128714636068301087 (u'self.smapiservice.get_search_container_program()', u'program'))
+2017-01-27 14:36:10,003 SKIP 27161 Search test_combinatorial_search_results_pagination_10762275166207459049128714636068301087
+2017-01-27 14:36:10,004 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:10,004 INFO Test Case: 27162 Search test_combinatorial_search_results_pagination_316177369974656976951021721751280697481 (u'self.smapiservice.get_search_container_stream()', u'stream'))
+2017-01-27 14:36:10,005 SKIP 27162 Search test_combinatorial_search_results_pagination_316177369974656976951021721751280697481
+2017-01-27 14:36:10,006 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:10,006 INFO Test Case: 27163 Search test_combinatorial_search_results_pagination_44500065934814015221142863091387152338 (u'self.smapiservice.get_search_container_playlist()', u'playlist'))
+2017-01-27 14:36:10,006 SKIP 27163 Search test_combinatorial_search_results_pagination_44500065934814015221142863091387152338
+2017-01-27 14:36:10,008 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:10,008 INFO Test Case: 27164 Search test_combinatorial_search_results_pagination_128579282379569079453933826811390174660 (u'self.smapiservice.get_search_container_other()', u'other'))
+2017-01-27 14:36:10,008 SKIP 27164 Search test_combinatorial_search_results_pagination_128579282379569079453933826811390174660
+2017-01-27 14:36:10,011 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:10,011 INFO Test Case: 27166 Search test_combinatorial_search_verify_results_311625000606473378461707165079849691420 (u'self.smapiservice.get_search_container_track()', u'self.smapiservice.get_search_term_track()'))
+2017-01-27 14:36:10,012 SKIP 27166 Search test_combinatorial_search_verify_results_311625000606473378461707165079849691420
+2017-01-27 14:36:10,013 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:10,013 INFO Test Case: 27167 Search test_combinatorial_search_verify_results_82562769879428199658291423279774422817 (u'self.smapiservice.get_search_container_artist()', u'self.smapiservice.get_search_term_artist()'))
+2017-01-27 14:36:10,014 SKIP 27167 Search test_combinatorial_search_verify_results_82562769879428199658291423279774422817
+2017-01-27 14:36:10,015 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:10,015 INFO Test Case: 27168 Search test_combinatorial_search_verify_results_308421698798149044702311439500512778005 (u'self.smapiservice.get_search_container_album()', u'self.smapiservice.get_search_term_album() '))
+2017-01-27 14:36:10,015 SKIP 27168 Search test_combinatorial_search_verify_results_308421698798149044702311439500512778005
+2017-01-27 14:36:10,016 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:10,017 INFO Test Case: 27169 Search test_combinatorial_search_verify_results_47690338398456615725864930136346371230 (u'self.smapiservice.get_search_container_program()', u'self.smapiservice.get_search_term_program()'))
+2017-01-27 14:36:10,017 SKIP 27169 Search test_combinatorial_search_verify_results_47690338398456615725864930136346371230
+2017-01-27 14:36:10,018 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:10,018 INFO Test Case: 27170 Search test_combinatorial_search_verify_results_114494826903219142138604980466477410255 (u'self.smapiservice.get_search_container_stream()', u'self.smapiservice.get_search_term_stream()'))
+2017-01-27 14:36:10,019 SKIP 27170 Search test_combinatorial_search_verify_results_114494826903219142138604980466477410255
+2017-01-27 14:36:10,020 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:10,020 INFO Test Case: 27171 Search test_combinatorial_search_verify_results_97241749001654301238293253235692771497 (u'self.smapiservice.get_search_container_playlist()', u'self.smapiservice.get_search_term_playlist()'))
+2017-01-27 14:36:10,020 SKIP 27171 Search test_combinatorial_search_verify_results_97241749001654301238293253235692771497
+2017-01-27 14:36:10,021 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:10,022 INFO Test Case: 27172 Search test_combinatorial_search_verify_results_58060706069951884597027011072858286571 (u'self.smapiservice.get_search_container_other()', u'self.smapiservice.get_search_term_other()'))
+2017-01-27 14:36:10,022 SKIP 27172 Search test_combinatorial_search_verify_results_58060706069951884597027011072858286571
+2017-01-27 14:36:10,026 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:10,026 INFO Start Test Case: 27174 Search test_train_ux_search_configuration
+2017-01-27 14:36:10,026 SKIP 27174 Search test_train_ux_search_configuration
+2017-01-27 14:36:10,075 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:10,075 INFO Test Case: 54287 Progvalidation test_combinatorial_browse_results_pagination_226630612844551532715398224208377833484 Not supported)
+2017-01-27 14:36:10,075 SKIP 54287 Progvalidation test_combinatorial_browse_results_pagination_226630612844551532715398224208377833484
+2017-01-27 14:36:10,077 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:10,077 INFO Test Case: 54288 Progvalidation test_combinatorial_browse_results_pagination_226630612844551532715398224208377833484 Not supported)
+2017-01-27 14:36:10,077 SKIP 54288 Progvalidation test_combinatorial_browse_results_pagination_226630612844551532715398224208377833484
+2017-01-27 14:36:10,134 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:10,134 INFO Test Case: 54290 Progvalidation test_combinatorial_test_program_radio_226630612844551532715398224208377833484 Not supported)
+2017-01-27 14:36:10,134 SKIP 54290 Progvalidation test_combinatorial_test_program_radio_226630612844551532715398224208377833484
+2017-01-27 14:36:10,136 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:10,136 INFO Test Case: 54291 Progvalidation test_combinatorial_test_program_radio_226630612844551532715398224208377833484 Not supported)
+2017-01-27 14:36:10,136 SKIP 54291 Progvalidation test_combinatorial_test_program_radio_226630612844551532715398224208377833484
+2017-01-27 14:36:10,194 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:10,194 INFO Test Case: 108579 StreamValidation test_combinatorial_test_stream_radio_29623730440760567675706469917615458245 (mediaMetadata){
+   id = "nts2"
+   title = "NTS - Live on 2"
+   mimeType = "audio/mpeg"
+   itemType = "stream"
+   streamMetadata = 
+      (streamMetadata){
+         logo = "https://media.ntslive.co.uk/crop/600x600/6bbc69bc-8b88-44e6-9e9e-74429d6ff0bb_1485475200.jpeg"
+         currentHost = "SUEZUKI"
+         currentShow = "SUEZUKI"
+         secondsRemaining = 1430
+         secondsToNextShow = 1431
+      }
+ })
+2017-01-27 14:36:10,237 PASS 108579 StreamValidation test_combinatorial_test_stream_radio_29623730440760567675706469917615458245
+2017-01-27 14:36:10,238 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:10,239 INFO Test Case: 108580 StreamValidation test_combinatorial_test_stream_radio_76589786927819410774589454005325240543 (mediaMetadata){
+   id = "nts1"
+   title = "NTS - Live on 1"
+   mimeType = "audio/mpeg"
+   itemType = "stream"
+   streamMetadata = 
+      (streamMetadata){
+         logo = "https://media.ntslive.co.uk/crop/600x600/17413351-2012-4dd1-8ad3-fb1667083130_1480032000.jpeg"
+         currentHost = "Anu"
+         currentShow = "Anu"
+         secondsRemaining = 1430
+         secondsToNextShow = 1431
+      }
+ })
+2017-01-27 14:36:10,283 PASS 108580 StreamValidation test_combinatorial_test_stream_radio_76589786927819410774589454005325240543
+2017-01-27 14:36:10,284 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:10,284 INFO Start Test Case: 108582 StreamValidation test_validate_content_key
+2017-01-27 14:36:10,285 SKIP 108582 StreamValidation test_validate_content_key
+2017-01-27 14:36:10,286 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:10,286 INFO Start Test Case: 108583 StreamValidation test_validate_getStreamingMetadata
+2017-01-27 14:36:10,286 SKIP 108583 StreamValidation test_validate_getStreamingMetadata
+2017-01-27 14:36:10,287 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:10,288 INFO Start Test Case: 217162 Stringtable test_against_xsd
+2017-01-27 14:36:10,288 SKIP 217162 Stringtable test_against_xsd
+2017-01-27 14:36:10,289 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:10,290 INFO Test Case: 217163 Stringtable test_combinatorial_all_languages_272332973971497266456332647529075436780 en-US)
+2017-01-27 14:36:10,290 WARN Service must provide a strings file URI ([Strings File]:stringsLocation in the config file). (expression is False)
+2017-01-27 14:36:10,290 SKIP 217163 Stringtable test_combinatorial_all_languages_272332973971497266456332647529075436780
+2017-01-27 14:36:10,291 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:10,292 INFO Test Case: 217164 Stringtable test_combinatorial_all_languages_248343605611310727457301781344250627565 da-DK)
+2017-01-27 14:36:10,292 WARN Service must provide a strings file URI ([Strings File]:stringsLocation in the config file). (expression is False)
+2017-01-27 14:36:10,292 SKIP 217164 Stringtable test_combinatorial_all_languages_248343605611310727457301781344250627565
+2017-01-27 14:36:10,293 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:10,294 INFO Test Case: 217165 Stringtable test_combinatorial_all_languages_23920949673594798714881610537253500994 de-DE)
+2017-01-27 14:36:10,294 WARN Service must provide a strings file URI ([Strings File]:stringsLocation in the config file). (expression is False)
+2017-01-27 14:36:10,294 SKIP 217165 Stringtable test_combinatorial_all_languages_23920949673594798714881610537253500994
+2017-01-27 14:36:10,296 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:10,296 INFO Test Case: 217166 Stringtable test_combinatorial_all_languages_209558383677646239374853758766919986738 fr-FR)
+2017-01-27 14:36:10,296 WARN Service must provide a strings file URI ([Strings File]:stringsLocation in the config file). (expression is False)
+2017-01-27 14:36:10,296 SKIP 217166 Stringtable test_combinatorial_all_languages_209558383677646239374853758766919986738
+2017-01-27 14:36:10,298 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:10,298 INFO Test Case: 217167 Stringtable test_combinatorial_all_languages_283763661698541572169492979238300563943 it-IT)
+2017-01-27 14:36:10,298 WARN Service must provide a strings file URI ([Strings File]:stringsLocation in the config file). (expression is False)
+2017-01-27 14:36:10,299 SKIP 217167 Stringtable test_combinatorial_all_languages_283763661698541572169492979238300563943
+2017-01-27 14:36:10,300 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:10,300 INFO Test Case: 217168 Stringtable test_combinatorial_all_languages_262623965426578793023677270906490735673 es-ES)
+2017-01-27 14:36:10,301 WARN Service must provide a strings file URI ([Strings File]:stringsLocation in the config file). (expression is False)
+2017-01-27 14:36:10,301 SKIP 217168 Stringtable test_combinatorial_all_languages_262623965426578793023677270906490735673
+2017-01-27 14:36:10,302 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:10,303 INFO Test Case: 217169 Stringtable test_combinatorial_all_languages_150311247032165249806672952164343491982 pt-BR)
+2017-01-27 14:36:10,303 WARN Service must provide a strings file URI ([Strings File]:stringsLocation in the config file). (expression is False)
+2017-01-27 14:36:10,303 SKIP 217169 Stringtable test_combinatorial_all_languages_150311247032165249806672952164343491982
+2017-01-27 14:36:10,305 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:10,305 INFO Test Case: 217170 Stringtable test_combinatorial_all_languages_59569624563120496288969118986964151009 sv-SE)
+2017-01-27 14:36:10,305 WARN Service must provide a strings file URI ([Strings File]:stringsLocation in the config file). (expression is False)
+2017-01-27 14:36:10,305 SKIP 217170 Stringtable test_combinatorial_all_languages_59569624563120496288969118986964151009
+2017-01-27 14:36:10,307 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:10,307 INFO Test Case: 217171 Stringtable test_combinatorial_all_languages_163849088889100427437282293375901048097 nl-NL)
+2017-01-27 14:36:10,307 WARN Service must provide a strings file URI ([Strings File]:stringsLocation in the config file). (expression is False)
+2017-01-27 14:36:10,308 SKIP 217171 Stringtable test_combinatorial_all_languages_163849088889100427437282293375901048097
+2017-01-27 14:36:10,309 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:10,309 INFO Test Case: 217172 Stringtable test_combinatorial_all_languages_198827217835110272730223144502985916799 nb-NO)
+2017-01-27 14:36:10,309 WARN Service must provide a strings file URI ([Strings File]:stringsLocation in the config file). (expression is False)
+2017-01-27 14:36:10,311 SKIP 217172 Stringtable test_combinatorial_all_languages_198827217835110272730223144502985916799
+2017-01-27 14:36:10,312 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:10,312 INFO Test Case: 217173 Stringtable test_combinatorial_all_languages_283743995608291858621092154611422837437 ja-JP)
+2017-01-27 14:36:10,313 WARN Service must provide a strings file URI ([Strings File]:stringsLocation in the config file). (expression is False)
+2017-01-27 14:36:10,313 SKIP 217173 Stringtable test_combinatorial_all_languages_283743995608291858621092154611422837437
+2017-01-27 14:36:10,314 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:10,314 INFO Test Case: 217174 Stringtable test_combinatorial_all_languages_297248705437716225237911204102095587973 zh-CN)
+2017-01-27 14:36:10,314 WARN Service must provide a strings file URI ([Strings File]:stringsLocation in the config file). (expression is False)
+2017-01-27 14:36:10,314 SKIP 217174 Stringtable test_combinatorial_all_languages_297248705437716225237911204102095587973
+2017-01-27 14:36:10,316 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:10,316 INFO Start Test Case: 217176 Stringtable test_equal_language_configuration
+2017-01-27 14:36:10,316 WARN Service must provide a strings file URI ([Strings File]:stringsLocation in the config file). (expression is False)
+2017-01-27 14:36:10,317 SKIP 217176 Stringtable test_equal_language_configuration
+2017-01-27 14:36:10,317 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:10,317 INFO Start Test Case: 217177 Stringtable test_getmetadata_all_languages
+2017-01-27 14:36:10,318 WARN Service must provide a strings file URI ([Strings File]:stringsLocation in the config file). (expression is False)
+2017-01-27 14:36:10,318 SKIP 217177 Stringtable test_getmetadata_all_languages
+2017-01-27 14:36:10,319 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:10,319 INFO Start Test Case: 217178 Stringtable test_minimum_config
+2017-01-27 14:36:10,319 WARN Service must provide a strings file URI ([Strings File]:stringsLocation in the config file). (expression is False)
+2017-01-27 14:36:10,320 SKIP 217178 Stringtable test_minimum_config
+2017-01-27 14:36:10,320 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:10,321 INFO Start Test Case: 217179 Stringtable test_unsupported_languages
+2017-01-27 14:36:10,321 WARN Service must provide a strings file URI ([Strings File]:stringsLocation in the config file). (expression is False)
+2017-01-27 14:36:10,321 SKIP 217179 Stringtable test_unsupported_languages
+2017-01-27 14:36:10,323 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:10,323 INFO Start Test Case: 434341 Presentationmap test_presentation_map
+2017-01-27 14:36:10,346 PASS 434341 Presentationmap test_presentation_map
+2017-01-27 14:36:10,349 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:10,349 INFO Test Case: 868682 ExtendedMetadataValidations test_combinatorial_get_extendedmetadata_79910549971598818613911631068757139742 (u'track', u'self.smapiservice.get_test_track_id()'))
+2017-01-27 14:36:10,350 SKIP 868682 ExtendedMetadataValidations test_combinatorial_get_extendedmetadata_79910549971598818613911631068757139742
+2017-01-27 14:36:10,351 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:10,352 INFO Test Case: 868683 ExtendedMetadataValidations test_combinatorial_get_extendedmetadata_202287592570443149333576301501150690606 (u'artist', u'self.smapiservice.get_test_artist_id()'))
+2017-01-27 14:36:10,352 SKIP 868683 ExtendedMetadataValidations test_combinatorial_get_extendedmetadata_202287592570443149333576301501150690606
+2017-01-27 14:36:10,353 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:10,353 INFO Test Case: 868684 ExtendedMetadataValidations test_combinatorial_get_extendedmetadata_226766092429267197794400786235382192888 (u'album', u'self.smapiservice.get_test_album_id()'))
+2017-01-27 14:36:10,354 SKIP 868684 ExtendedMetadataValidations test_combinatorial_get_extendedmetadata_226766092429267197794400786235382192888
+2017-01-27 14:36:10,355 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:10,355 INFO Test Case: 868685 ExtendedMetadataValidations test_combinatorial_get_extendedmetadata_303494449562366627567694895518968386839 (u'program', u'self.smapiservice.get_test_prog_id()'))
+2017-01-27 14:36:10,356 SKIP 868685 ExtendedMetadataValidations test_combinatorial_get_extendedmetadata_303494449562366627567694895518968386839
+2017-01-27 14:36:10,357 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:10,357 INFO Test Case: 868686 ExtendedMetadataValidations test_combinatorial_get_extendedmetadata_106231269325407458334543765211541715437 (u'stream', u'self.smapiservice.get_test_stream_id()'))
+2017-01-27 14:36:10,415 PASS 868686 ExtendedMetadataValidations test_combinatorial_get_extendedmetadata_106231269325407458334543765211541715437
+2017-01-27 14:36:10,416 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:10,416 INFO Test Case: 868687 ExtendedMetadataValidations test_combinatorial_get_extendedmetadata_42611123999516502198009414353466294246 (u'playlist', u'self.smapiservice.get_test_playlist_id()'))
+2017-01-27 14:36:10,417 SKIP 868687 ExtendedMetadataValidations test_combinatorial_get_extendedmetadata_42611123999516502198009414353466294246
+2017-01-27 14:36:10,418 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:10,418 INFO Test Case: 868688 ExtendedMetadataValidations test_combinatorial_get_extendedmetadata_286380630741177489163373456639541166848 (u'other', u'self.smapiservice.get_test_other_id()'))
+2017-01-27 14:36:10,419 SKIP 868688 ExtendedMetadataValidations test_combinatorial_get_extendedmetadata_286380630741177489163373456639541166848
+2017-01-27 14:36:10,422 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:10,422 INFO Start Test Case: 1737371 PollingIntervalTest test_getlastupdate_no_change
+2017-01-27 14:36:40,598 PASS 1737371 PollingIntervalTest test_getlastupdate_no_change
+2017-01-27 14:36:40,601 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:40,601 INFO Start Test Case: 3474742 Authentication test_expired_trial_account
+2017-01-27 14:36:40,602 SKIP 3474742 Authentication test_expired_trial_account
+2017-01-27 14:36:40,604 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:40,604 INFO Start Test Case: 3474743 Authentication test_invalid_credentials
+2017-01-27 14:36:40,604 SKIP 3474743 Authentication test_invalid_credentials
+2017-01-27 14:36:40,605 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:40,606 INFO Start Test Case: 3474744 Authentication test_migration_to_deviceLink
+2017-01-27 14:36:40,606 SKIP 3474744 Authentication test_migration_to_deviceLink
+2017-01-27 14:36:40,607 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:40,607 INFO Start Test Case: 3474745 Authentication test_supported_account
+2017-01-27 14:36:40,608 SKIP 3474745 Authentication test_supported_account
+2017-01-27 14:36:40,609 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:40,609 INFO Start Test Case: 3474746 Authentication test_unsupported_account
+2017-01-27 14:36:40,610 SKIP 3474746 Authentication test_unsupported_account
+2017-01-27 14:36:40,611 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:40,611 INFO Start Test Case: 3474747 Authentication test_unsupported_territory_account
+2017-01-27 14:36:40,612 SKIP 3474747 Authentication test_unsupported_territory_account
+2017-01-27 14:36:40,613 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:40,613 INFO Start Test Case: 6949489 SMAPIReporting test_report_account_action
+2017-01-27 14:36:40,614 SKIP 6949489 SMAPIReporting test_report_account_action
+2017-01-27 14:36:40,615 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:40,615 INFO Start Test Case: 6949490 SMAPIReporting test_report_play_seconds
+2017-01-27 14:36:40,615 SKIP 6949490 SMAPIReporting test_report_play_seconds
+2017-01-27 14:36:40,616 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-27 14:36:40,616 INFO Start Test Case: 6949491 SMAPIReporting test_report_play_status
+2017-01-27 14:36:40,616 SKIP 6949491 SMAPIReporting test_report_play_status
+2017-01-27 14:36:40,617 SUITE Summary: Passed. Passed: 13, Warnings: 0, Failed: 0.

@@ -1,0 +1,18 @@
+2017-01-23 10:23:53,934 SUITE Summary Report Files: log_files/Presentation map Validation/SummaryReport.html and log_files/Presentation map Validation/Presentation-map-Validation.txt
+2017-01-23 10:23:53,934 SUITE Detailed Debug Log File: log_files/Presentation map Validation/Presentation-map-Validation-DEBUG.log
+2017-01-23 10:23:54,099 SUITE Start *test suite* 'Presentation map Validation' at Monday, January 23, 2017 10:23 AM 
+2017-01-23 10:23:54,106 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-23 10:23:54,107 INFO Start Test Case: 1 Albumart test_custom_browse_icon_configuration
+2017-01-23 10:23:54,111 SKIP 1 Albumart test_custom_browse_icon_configuration
+2017-01-23 10:23:54,113 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-23 10:23:54,113 INFO Start Test Case: 2 Albumart test_custom_browse_icon_schema
+2017-01-23 10:23:54,116 WARN Cannot find node with XPath .//PresentationMap[@type='BrowseIconSizeMap'] in Presentation Map
+2017-01-23 10:23:54,116 SKIP 2 Albumart test_custom_browse_icon_schema
+2017-01-23 10:23:54,117 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-23 10:23:54,117 INFO Start Test Case: 3 Albumart test_hi_res_album_art_configuration
+2017-01-23 10:23:54,120 STOP The hi-res albumArtURI (None) should be something other than None. (is None)
+2017-01-23 10:23:54,121 STOP 3 Albumart test_hi_res_album_art_configuration
+2017-01-23 10:23:54,121 INFO -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  
+2017-01-23 10:23:54,122 INFO Start Test Case: 4 Albumart test_token_inside_substitution
+2017-01-23 10:23:54,130 PASS 4 Albumart test_token_inside_substitution
+2017-01-23 10:23:54,131 SUITE Summary: Failed. Passed: 1, Warnings: 0, Failed: 1.
